@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="research-list">
+  {% for post in site.research reversed %}
+    <div class="research-item">
+      {% if post.image %}
+        <div class="research-item__image">
+          <img src="{{ post.image | prepend: '/images/' | prepend: base_path }}" alt="{{ post.title }}">
+        </div>
+      {% endif %}
+      <div class="research-item__content">
+        <h2><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a></h2>
+        {% if post.excerpt %}
+          <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        {% endif %}
+      </div>
+    </div>
+    <hr />
+  {% endfor %}
+</div>
