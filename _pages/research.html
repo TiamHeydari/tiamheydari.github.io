@@ -7,21 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="research-list">
+<div class="research-grid">
   {% for post in site.research reversed %}
-    <div class="research-item">
-      {% if post.image %}
-        <div class="research-item__image">
-          <img src="{{ post.image | prepend: '/images/' | prepend: base_path }}" alt="{{ post.title }}">
+    <div class="research-card">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+        <div class="research-card__image">
+          {% if post.image %}
+            <img src="{{ post.image | prepend: '/images/' | prepend: base_path }}" alt="{{ post.title }}">
+          {% else %}
+            <img src="{{ '/images/research/research-placeholder.svg' | prepend: base_path }}" alt="{{ post.title }}">
+          {% endif %}
         </div>
+        <h3 class="research-card__title">{{ post.title }}</h3>
+      </a>
+      {% if post.excerpt %}
+        <p class="research-card__excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
       {% endif %}
-      <div class="research-item__content">
-        <h2><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a></h2>
-        {% if post.excerpt %}
-          <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-        {% endif %}
-      </div>
     </div>
-    <hr />
   {% endfor %}
 </div>
