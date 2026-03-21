@@ -7,6 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="course-grid">
+  {% for post in site.teaching reversed %}
+    <div class="course-card">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+        <div class="course-card__image">
+          {% if post.header.teaser %}
+            <img src="{{ post.header.teaser | prepend: '/images/' | prepend: base_path }}" alt="{{ post.title }}">
+          {% else %}
+            <img src="{{ '/images/teaching/course-placeholder.svg' | prepend: base_path }}" alt="{{ post.title }}">
+          {% endif %}
+        </div>
+        <h3 class="course-card__title">{{ post.title }}</h3>
+      </a>
+    </div>
+  {% endfor %}
+</div>
