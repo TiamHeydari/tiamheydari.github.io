@@ -4,7 +4,8 @@ collection: research
 permalink: /research/sheepdog-cells
 excerpt: 'Description will be added here.'
 date: 2025-07-01
-image: researchimage.png
+header:
+  teaser: "research/research-placeholder.svg"
 ---
 
 Description will be added here.

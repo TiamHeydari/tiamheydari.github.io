@@ -4,7 +4,8 @@ collection: research
 permalink: /research/systems-immunology
 excerpt: 'Description will be added here.'
 date: 2025-05-01
-image: researchimage.png
+header:
+  teaser: "research/research-placeholder.svg"
 ---
 
 Description will be added here.

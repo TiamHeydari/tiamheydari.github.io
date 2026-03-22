@@ -4,7 +4,8 @@ collection: research
 permalink: /research/virtual-cell-model
 excerpt: 'Description will be added here.'
 date: 2025-02-01
-image: researchimage.png
+header:
+  teaser: "research/research-placeholder.svg"
 ---
 
 Description will be added here.

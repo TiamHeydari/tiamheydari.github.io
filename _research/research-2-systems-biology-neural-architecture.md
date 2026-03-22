@@ -4,7 +4,8 @@ collection: research
 permalink: /research/systems-biology-neural-architecture
 excerpt: 'Description will be added here.'
 date: 2025-06-01
-image: researchimage.png
+header:
+  teaser: "research/research-placeholder.svg"
 ---
 
 Description will be added here.
