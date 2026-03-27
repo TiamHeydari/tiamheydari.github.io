@@ -18,7 +18,7 @@ This course introduces the core ideas behind modern AI, starting from the founda
 
 | # | Topic | Slides | Notebook |
 |---|-------|--------|----------|
-| 1 | Introduction: What is Modern AI? | [PDF](/files/teaching/modern-ai/lecture-01.pdf) | [Colab](#) |
+| 1 | Introduction | [PDF](to be uploaded) | [Colab](#) |
 | 2 | Foundations of Machine Learning | [PDF](/files/teaching/modern-ai/lecture-02.pdf) | [Colab](#) |
 | 3 | Neural Networks and Deep Learning | [PDF](/files/teaching/modern-ai/lecture-03.pdf) | [Colab](#) |
 | 4 | Learning from Tabular Data | [PDF](/files/teaching/modern-ai/lecture-04.pdf) | [Colab](#) |
