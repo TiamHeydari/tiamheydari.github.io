@@ -1,11 +1,11 @@
 ---
-title: "Systems biology-inspired neural architecture for predicting cell differentiation"
+title: "Biology-inspired neural architectures"
 collection: research
 permalink: /research/systems-biology-neural-architecture
 excerpt: 'Description will be added here.'
 date: 2025-06-01
 header:
-  teaser: "research/research-placeholder.svg"
+  teaser: "research/iqc2.png"
 ---
 
-Description will be added here.
+Coming soon.
