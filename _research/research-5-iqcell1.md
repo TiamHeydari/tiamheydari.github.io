@@ -13,9 +13,9 @@ IQCELL: A platform for predicting the effect of gene perturbations on developmen
 
 
 
-Applied to early mouse T-cell and erythroid development, it recovered over 74% of previously reported causal interactions and qualitatively reproduced known perturbation effects, showing that single-cell data could be used not only to describe cell states but also to build predictive, executable models of developmental control.
+Applied to early mouse T-cell and erythroid development, it recovered over 3/4 of previously reported causal interactions and qualitatively reproduced known perturbation effects, showing that single-cell data could be used not only to describe cell states but also to build predictive, executable models of developmental control.
 
-More importantly, this work served as a foundation for later studies in human developmental systems. In a subsequent study of human mast, myeloid, and T-lineage specification, gene-regulatory-network inference within this broader framework uncovered a regulatory role for YBX1 in human T-lineage specification, and experimental perturbation showed that loss of YBX1 reduced T-lineage output. This helped extend the original vision of IQCELL from proof-of-principle network inference toward actual biological discovery in human systems.
+Later, this work served as a foundation for later studies in human developmental systems. In a subsequent study of human mast, myeloid, and T-lineage specification, gene-regulatory-network inference within this broader framework uncovered a regulatory role for YBX1 in human T-lineage specification, and experimental perturbation showed that loss of YBX1 reduced T-lineage output. This helped extend the original vision of IQCELL from proof-of-principle network inference toward actual biological discovery in human systems.
 
 
 <img width="1842" height="712" alt="image" src="https://github.com/user-attachments/assets/9f8ba6b4-6df1-4d82-9074-705a74d28afc" />
