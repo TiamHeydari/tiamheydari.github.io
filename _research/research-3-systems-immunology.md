@@ -5,7 +5,7 @@ permalink: /research/systems-immunology
 excerpt: 'Description will be added here.'
 date: 2025-05-01
 header:
-  teaser: "research/research-placeholder.svg"
+  teaser: "research/collective_immune.png"
 ---
 
 
