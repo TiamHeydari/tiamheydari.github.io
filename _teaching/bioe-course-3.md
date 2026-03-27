@@ -1,13 +1,13 @@
 ---
-title: "Computational Immunology"
+title: "Modern AI: Theory and application in biology"
 collection: teaching
-type: "Graduate course"
+type: "Workshop"
 permalink: /teaching/bioe-course-3
 venue: "University of British Columbia"
-date: 2024-09-01
+date: TDB
 location: "Vancouver, BC"
 header:
-  teaser: "teaching/course-placeholder.svg"
+  teaser: "teaching/modern_ai.png"
 ---
 
 Course description will be added here.
