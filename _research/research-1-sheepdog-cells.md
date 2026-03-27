@@ -10,6 +10,7 @@ header:
 
 Emergence, Scaling, and Control of Multicellular Collective Order
 
+
 This work asks how local cell–cell interactions give rise to coordinated multicellular behavior, and when a small perturbation can redirect the state of an entire colony. (A) At low cell numbers, colonies remain weakly coordinated and produce disordered fate patterns. As cell number increases, colonies cross into an ordered regime in which cell fates become collectively aligned. (B) This transition follows a common scaling relationship: when collective order is plotted against colony compactness, a proxy for cell density, measurements from colonies of different radii collapse onto the same curve. This suggests that the onset of coordination is governed by a shared quantitative principle rather than by colony size alone. (C) Once this coordinated regime emerges, the colony becomes controllable: a single engineered “guide cell” can bias the fate of the larger population, analogous to a sheepdog steering a flock. Importantly, this herding effect is strongest only within a finite window of cell numbers, revealing a distinct control regime in which multicellular order is both established and still susceptible to localized intervention.
 
 
