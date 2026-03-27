@@ -4,7 +4,7 @@ collection: research
 permalink: /research/electron-density-chlorophyll
 excerpt: 'Description will be added here.'
 header:
-  teaser: "research/research-placeholder.svg"
+  teaser: "research/dft.png"
 ---
 
 Optical absorption and electronic spectra of chlorophylls a and b was a collaborative project focused on the quantum-level description of light-harvesting molecules central to photosynthesis. The study used density functional theory (DFT), time-dependent DFT, and GW calculations to characterize the electronic structure, absorption spectra, band gaps, and electric moments of chlorophylls a and b, with results reported to be in strong agreement with experimental observations. 
