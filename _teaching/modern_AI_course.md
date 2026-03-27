@@ -69,17 +69,27 @@ This course introduces the core ideas behind modern AI, starting from the founda
 
 | # | Topic | Slides | Notebook |
 |---|-------|--------|----------|
-| 1 | Introduction | [PDF](to be uploaded) | [Colab](#) |
-| 2 | Foundations of Machine Learning | [PDF](/files/teaching/modern-ai/lecture-02.pdf) | [Colab](#) |
-| 3 | Neural Networks and Deep Learning | [PDF](/files/teaching/modern-ai/lecture-03.pdf) | [Colab](#) |
-| 4 | Learning from Tabular Data | [PDF](/files/teaching/modern-ai/lecture-04.pdf) | [Colab](#) |
-| 5 | Convolutional Networks and Grid-Structured Data | [PDF](/files/teaching/modern-ai/lecture-05.pdf) | [Colab](#) |
-| 6 | Sequence Models and Recurrent Networks | [PDF](/files/teaching/modern-ai/lecture-06.pdf) | [Colab](#) |
-| 7 | Attention and Transformers | [PDF](/files/teaching/modern-ai/lecture-07.pdf) | [Colab](#) |
-| 8 | Graph Neural Networks | [PDF](/files/teaching/modern-ai/lecture-08.pdf) | [Colab](#) |
-| 9 | Generative Models (VAEs, GANs, Diffusion) | [PDF](/files/teaching/modern-ai/lecture-09.pdf) | [Colab](#) |
-| 10 | Foundation and Large Language Models | [PDF](/files/teaching/modern-ai/lecture-10.pdf) | [Colab](#) |
-| 11 | Multimodal Models | [PDF](/files/teaching/modern-ai/lecture-11.pdf) | [Colab](#) |
-| 12 | AI Applications in Biology | [PDF](/files/teaching/modern-ai/lecture-12.pdf) | [Colab](#) |
+| 1 | **A.1** Foundations of machine learning: objectives, likelihoods, losses, supervised learning, and unsupervised learning | to be uploaded | to be uploaded |
+| 2 | **A.2** Gradient descent, backpropagation, gradient flow, and a practical introduction to PyTorch | to be uploaded | to be uploaded |
+| 3 | **B.1** Tabular data: MLPs, residual connections, and autoencoders | to be uploaded | to be uploaded |
+| 4 | **B.2** Grid-structured data: CNNs | to be uploaded | to be uploaded |
+| 5 | **B.3** Sequential data: RNNs, LSTMs, and GRUs | to be uploaded | to be uploaded |
+| 6 | **B.4** Graph-structured data: GNNs and message passing | to be uploaded | to be uploaded |
+| 7 | **B.5** Set-structured data: Deep Sets | to be uploaded | to be uploaded |
+| 8 | **B.6** Transformers through a graph / message-passing lens | to be uploaded | to be uploaded |
+| 9 | **B.7** A unifying view: invariance, equivariance, and geometric deep learning | to be uploaded | to be uploaded |
+| 10 | **C.1** Regularization, optimization, and practical training heuristics | to be uploaded | to be uploaded |
+| 11 | **C.2** Inductive bias and architecture choice | to be uploaded | to be uploaded |
+| 12 | **C.3** Generalization, out-of-distribution limits, and scaling laws | to be uploaded | to be uploaded |
+| 13 | **D.1** A probabilistic view of data generation | to be uploaded | to be uploaded |
+| 14 | **D.2** Variational autoencoders | to be uploaded | to be uploaded |
+| 15 | **D.3** Flow matching models | to be uploaded | to be uploaded |
+| 16 | **D.4** Diffusion models | to be uploaded | to be uploaded |
+| 17 | **E.1** Transfer learning, fine-tuning, self-supervised learning, continual / online learning, and active learning | to be uploaded | to be uploaded |
+| 18 | **F.1** Why multimodal learning? Heterogeneity, complementarity, and shared representations | to be uploaded | to be uploaded |
+| 19 | **F.2** Combining modalities: fusion, joint embeddings, and cross-modal representation learning | to be uploaded | to be uploaded |
+| 20 | **F.3** Alignment and cross-modal interaction: correspondence, grounding, and attention | to be uploaded | to be uploaded |
+| 21 | **F.4** Multimodal reasoning and generation: from understanding to foundation models | to be uploaded | to be uploaded |
+
 
 > **Note:** Upload PDF slides to `files/teaching/modern-ai/` using the filenames above (e.g. `lecture-01.pdf`) and they will automatically become active links. Replace each `[Colab](#)` placeholder with the corresponding Google Colab notebook URL.
