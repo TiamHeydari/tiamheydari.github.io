@@ -3,9 +3,8 @@ title: "iQcell1: framing gene regulatory networks from scRNAseq data as a Boolea
 collection: research
 permalink: /research/iqcell1
 excerpt: 'Description will be added here.'
-date: 2025-03-01
 header:
-  teaser: "research/research-placeholder.svg"
+  teaser: "research/iqc1.png"
 ---
 
 IQCELL: A platform for predicting the effect of gene perturbations on developmental trajectories using single-cell RNA-seq data introduced the first version of our effort to reconstruct executable gene regulatory networks directly from single-cell transcriptomic data. The central idea was that scRNA-seq should not only be used to describe cell states, but also to build dynamic models that can be simulated, perturbed, and tested as hypotheses about developmental control. IQCELL combined gene selection, dropout correction, pseudotime-aware network inference, logical rule construction, and dynamical simulation into a single framework for studying how transcription factors coordinate developmental trajectories.
