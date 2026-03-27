@@ -21,3 +21,27 @@ Dates: Sept 9-16th; Sep 26th-Oct 7th; Nov 4th-11th; Dec 2nd.
 Location: IRC 1
 
 <img width="924" height="640" alt="image" src="https://github.com/user-attachments/assets/f4ceaace-a4f4-4ce7-8725-eda642e67125" />
+
+
+
+
+## Lectures
+
+| # | Topic | Slides | Instructor |
+|---|-------|--------|------------|
+| 1 | Background and Motivation | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%201.pdf) | Tiam Heydari |
+| 2 | Introduction to Vector Calculus | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%202.pdf) | Tiam Heydari |
+| 3 | Coordinate Systems | to be uploaded | Tiam Heydari |
+| 4 | Differential Equations | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%204.pdf) | Tiam Heydari |
+| 5 | Mass Conservation | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%205.pdf) | Tiam Heydari |
+| 6 | Pharmacokinetics | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%206.pdf) | Tiam Heydari |
+| 7 | Total Time Derivative and Continuity Equation | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%207.pdf) | Tiam Heydari |
+| 12 | Diffusion Review and Fick’s Laws | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%2012.pdf) | Tiam Heydari |
+| 13 | Steady-State Approximation for Diffusion I | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%2013.pdf) | Tiam Heydari |
+| 14 | Steady-State Approximation for Diffusion II | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%2014.pdf) | Tiam Heydari |
+| 15 | Beyond the Steady-State Approximation | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%2015.pdf) | Tiam Heydari |
+| 22 | Fluid Mechanics Review | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%2022.pdf) | Tiam Heydari |
+| 23 | Solving Navier–Stokes | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%2023.pdf) | Tiam Heydari |
+| 24 | Navier–Stokes: Steady-State and Fully Developed Flow | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%2024.pdf) | Tiam Heydari |
+| 25 | Navier–Stokes: Steady-State Solutions | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%2025.pdf) | Tiam Heydari |
+| 26 | Applications of Navier–Stokes in Microfluidics | [PDF](https://tiamheydari.github.io/_teaching/Tranport_files/Lecture%2026.pdf) | Tiam Heydari |
