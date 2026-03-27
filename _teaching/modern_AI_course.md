@@ -12,6 +12,57 @@ header:
 This course introduces the core ideas behind modern AI, starting from the foundations of machine learning and neural networks and building toward today's most important model families. We will study how different data structures—tables, grids, sequences, sets, and graphs—motivate different architectures, how models are trained and generalized, and how modern generative, foundation, and multimodal systems are constructed. Along the way, we will connect these methods to applications in biological systems. Each lecture will be paired with practical notebooks and hands-on exercises so that students not only understand the concepts, but also learn how to implement and apply them in practice.
 
 
+
+## Syllabus
+
+## A. Foundations of Machine Learning and Neural Networks
+**A.1** Foundations of machine learning: objectives, likelihoods, losses, supervised learning, and unsupervised learning  
+**A.2** Gradient descent, backpropagation, gradient flow, and a practical introduction to PyTorch  
+
+## B. Data Structures, Symmetries, and Neural Network Architectures
+**B.1** Tabular data: MLPs, residual connections, and autoencoders  
+**B.2** Grid-structured data: CNNs  
+**B.3** Sequential data: RNNs, LSTMs, and GRUs  
+**B.4** Graph-structured data: GNNs and message passing  
+**B.5** Set-structured data: Deep Sets  
+**B.6** Transformers through a graph / message-passing lens  
+**B.7** A unifying view: invariance, equivariance, and geometric deep learning  
+
+## C. Training, Inductive Bias, and Generalization
+**C.1** Regularization, optimization, and practical training heuristics  
+**C.2** Inductive bias and architecture choice  
+**C.3** Generalization, out-of-distribution limits, and scaling laws  
+
+## D. Generative Modeling
+**D.1** A probabilistic view of data generation  
+**D.2** Variational autoencoders  
+**D.3** Flow matching models  
+**D.4** Diffusion models  
+
+## E. Learning Beyond Standard Supervision
+**E.1** Transfer learning, fine-tuning, self-supervised learning, continual / online learning, and active learning  
+
+## F. Multimodal Learning
+**F.1** Why multimodal learning? Heterogeneity, complementarity, and shared representations  
+**F.2** Combining modalities: fusion, joint embeddings, and cross-modal representation learning  
+**F.3** Alignment and cross-modal interaction: correspondence, grounding, and attention  
+**F.4** Multimodal reasoning and generation: from understanding to foundation models
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="293" height="293" alt="modern_ai" src="https://github.com/user-attachments/assets/f7f7aeff-3a4a-43ff-adfd-a066a5d4fd93" />
 
 ## Lectures & Notebooks
