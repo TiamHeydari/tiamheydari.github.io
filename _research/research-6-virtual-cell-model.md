@@ -1,5 +1,5 @@
 ---
-title: "Virtual Cell model: The first biophysical multiscale model that maps ECM to chromatin configuration"
+title: "Virtual Cell model: The first biophysical to map ECM to chromatin configuration(2017)"
 collection: research
 permalink: /research/virtual-cell-model
 excerpt: 'Description will be added here.'
