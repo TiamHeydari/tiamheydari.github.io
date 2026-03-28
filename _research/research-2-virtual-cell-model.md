@@ -19,3 +19,5 @@ Read more: https://pubs.acs.org/doi/10.1021/acsnano.7b03732 <br>
 Code at: https://github.com/TiamHeydari/virtual_cell_cpp <br>
 
 Patent ar: https://patentimages.storage.googleapis.com/8a/e2/41/a60b60e43d2d80/US20180196914A1.pdf <br>
+
+VC's application in luripotent Stem Cell-Derived Cardiomyocytes:https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201707378 <br>
