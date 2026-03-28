@@ -4,7 +4,7 @@ collection: research
 permalink: /research/sheepdog-cells
 excerpt: 'Description will be added here.'
 header:
-  teaser: "research/sheep_dog.png"
+  teaser: "research/sheep_dog2.png"
 ---
 
 Emergence, Scaling, and Control of Multicellular Collective Order:
