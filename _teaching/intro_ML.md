@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning in Bioinformatics"
+title: "Intro to Machine Learning in genome informatics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/bioe-course-2
