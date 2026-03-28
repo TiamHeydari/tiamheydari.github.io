@@ -1,5 +1,5 @@
 ---
-title: "iQcell1: framing gene regulatory networks from scRNAseq data as a Boolean satisfiability problem (SAT)"
+title: "iQcell1: framing gene regulatory networks from scRNAseq data (2023)"
 collection: research
 permalink: /research/iqcell1
 excerpt: 'Description will be added here.'
