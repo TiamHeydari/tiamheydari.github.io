@@ -19,8 +19,9 @@ These are two introductory lectures I delivered as a guest lecturer between 2024
 
 | Lecture | Topic | Description | Materials |
 |---|---|---|---|
-| Lecture 1 | Introduction to Machine Learning | A broad introduction to the main ideas of machine learning, including learning tasks, model training, evaluation, and core terminology relevant to genome informatics. | [Slides]({{ '/_teaching/ML_files/TH_L1.pdf' \| relative_url }}) |
-| Lecture 2 | Neural Networks and Modern ML | An introductory overview of neural networks and modern machine learning approaches, with a focus on concepts that help students engage with current methods used in biological data analysis. | [Slides]({{ '/_teaching/ML_files/TH_L2.pdf' \| relative_url }}) |
+| Lecture 1 | Introduction to Machine Learning | A broad introduction to the main ideas of machine learning, including learning tasks, model training, evaluation, and core terminology relevant to genome informatics. | [PDF](https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/ML_files/TH_L1.pdf) |
+| Lecture 2 | Neural Networks and Modern ML | An introductory overview of neural networks and modern machine learning approaches, with a focus on concepts that help students engage with current methods used in biological data analysis. | [PDF](https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/ML_files/TH_L2.pdf) |
+
 
 ### Notes
 
