@@ -9,10 +9,5 @@ redirect_from:
 
 I am currently a postdoctoral fellow in the School of Biological Engineering at the University of British Columbia (UBC). My research interests are in the intersection of systems biology, systems immunology, and artificial intelligence.
 
-## Research
 
-My current research focuses on understanding collective cell behaviour, gene regulatory networks, and multiscale biophysical modelling. [View all research projects →](/research/)
-
-## Teaching
-
-I teach graduate courses and workshops at UBC on topics including systems biology, machine learning in bioinformatics, and modern AI methods for biological applications. [View all courses →](/teaching/)
+![2623b4eb-5bd2-47a5-b917-f643c1772e5c](https://github.com/user-attachments/assets/34e16e8a-4d10-4a3d-8559-c04ad6167a88)
