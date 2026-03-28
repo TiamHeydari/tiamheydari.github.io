@@ -1,5 +1,5 @@
 ---
-title: "Mapping multicellular attractor of tissues via neural learning"
+title: "Mapping multicellular attractor of tissues via neural learning (ongoing)"
 collection: research
 permalink: /research/multicellular-attractor
 excerpt: 'Description will be added here.'
