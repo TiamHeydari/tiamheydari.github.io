@@ -1,5 +1,5 @@
 ---
-title: "Sheepdog cells for guiding tissue collective dynamics"
+title: "Sheepdog cells for guiding tissue collective dynamics (2025)"
 collection: research
 permalink: /research/sheepdog-cells
 excerpt: 'Description will be added here.'
