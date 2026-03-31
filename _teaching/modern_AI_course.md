@@ -4,6 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/bioe-course-3
 venue: "University of British Columbia"
+date: 2026-7-01
 location: "Vancouver, BC"
 header:
   teaser: "teaching/modern_ai3.png"
