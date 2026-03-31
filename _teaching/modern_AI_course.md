@@ -50,19 +50,10 @@ This course introduces the core ideas behind modern AI, starting from the founda
 
 
 
+<img width="799" height="482" alt="image" src="https://github.com/user-attachments/assets/70d8f726-101b-44ee-b37f-b25cca38de78" />
 
 
 
-
-
-
-
-
-
-
-
-
-<img width="293" height="293" alt="modern_ai" src="https://github.com/user-attachments/assets/f7f7aeff-3a4a-43ff-adfd-a066a5d4fd93" />
 
 ## Lectures & Notebooks
 
