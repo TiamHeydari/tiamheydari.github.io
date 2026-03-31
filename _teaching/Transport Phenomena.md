@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/bioe-course-1
 venue: "University of British Columbia"
+date: 2024-9-01
 location: "Vancouver, BC"
 header:
   teaser: teaching/transport_2.png
