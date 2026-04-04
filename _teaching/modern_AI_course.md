@@ -3,9 +3,14 @@ title: "Modern AI: Theory and application in biology"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/bioe-course-3
+date: 2026-07-01
 venue: "University of British Columbia"
 header:
+  teaser: "teaching/modern_ai4.png"
 ---
+
+## This workshop is under development
+
 This course introduces the core ideas behind modern AI, starting from the foundations of machine learning and neural networks and building toward today's most important model families. We will study how different data structures (tables, grids, sequences, sets, and graphs) motivate different architectures, how models are trained and generalized, and how modern generative, foundation, and multimodal systems are constructed. Along the way, we will connect these methods to applications in biological systems. Each lecture will be paired with practical notebooks and hands-on exercises so that students not only understand the concepts, but also learn how to implement and apply them in practice.
 
 
@@ -44,13 +49,6 @@ This course introduces the core ideas behind modern AI, starting from the founda
 **F.2** Combining modalities: fusion, joint embeddings, and cross-modal representation learning  
 **F.3** Alignment and cross-modal interaction: correspondence, grounding, and attention  
 **F.4** Multimodal reasoning and generation: from understanding to foundation models
-
-
-
-
-<img width="799" height="482" alt="image" src="https://github.com/user-attachments/assets/70d8f726-101b-44ee-b37f-b25cca38de78" />
-
-
 
 
 ## Lectures & Notebooks
