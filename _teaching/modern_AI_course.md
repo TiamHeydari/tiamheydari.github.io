@@ -6,7 +6,7 @@ permalink: /teaching/bioe-course-3
 date: 2026-07-01
 venue: "University of British Columbia"
 header:
-  teaser: "teaching/modern_ai4.png"
+  teaser: "teaching/modern_ai5.png"
 ---
 
 ## This workshop is under development
