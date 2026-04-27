@@ -38,15 +38,16 @@ This course introduces the core ideas behind modern AI, starting from the founda
 **C.4** Transformers across different data structures  
 **C.5** Training transformers  
 
-## D. Geometry, Training, and Generalization
-**D.1** A unifying view: invariance, equivariance, and geometric deep learning  
-**D.2** Training, inductive bias, and generalization  
+## D. Representation Learning and Generative Modeling
+**D.1** Representation Learning: Learning useful coordinates for data  
+**D.2** Representation Learning: Evaluating and probing representations  
+**D.3** Representation Learning: How to learn a good representation  
+**D.4** Generative modeling: Variational autoencoders  
+**D.5** Generative modeling: Flow matching models  
+**D.6** Generative modeling: Diffusion models  
 
-## E. Generative Modeling
-**E.1** A probabilistic view of data generation  
-**E.2** Variational autoencoders  
-**E.3** Flow matching models  
-**E.4** Diffusion models  
+## E. Geometric Deep Learning
+**E.1** A unifying view: invariance, equivariance, and geometric deep learning  
 
 ## F. Multimodal Learning
 **F.1** Why multimodal learning? Heterogeneity, complementarity, and shared representations  
@@ -71,16 +72,17 @@ This course introduces the core ideas behind modern AI, starting from the founda
 | 10 | **C.3** Transformer architectures | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/C.3.pdf" target="_blank" rel="noopener">PDF</a> | to be uploaded |
 | 11 | **C.4** Transformers across different data structures | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/C.4.pdf" target="_blank" rel="noopener">PDF</a> | to be uploaded |
 | 12 | **C.5** Training transformers | to be uploaded | to be uploaded |
-| 13 | **D.1** A unifying view: invariance, equivariance, and geometric deep learning | to be uploaded | to be uploaded |
-| 14 | **D.2** Training, inductive bias, and generalization | to be uploaded | to be uploaded |
-| 15 | **E.1** A probabilistic view of data generation | to be uploaded | to be uploaded |
-| 16 | **E.2** Variational autoencoders | to be uploaded | to be uploaded |
-| 17 | **E.3** Flow matching models | to be uploaded | to be uploaded |
-| 18 | **E.4** Diffusion models | to be uploaded | to be uploaded |
-| 19 | **F.1** Why multimodal learning? Heterogeneity, complementarity, and shared representations | to be uploaded | to be uploaded |
-| 20 | **F.2** Combining modalities: fusion, joint embeddings, and cross-modal representation learning | to be uploaded | to be uploaded |
-| 21 | **F.3** Alignment and cross-modal interaction: correspondence, grounding, and attention | to be uploaded | to be uploaded |
-| 22 | **F.4** Multimodal reasoning and generation: from understanding to foundation models | to be uploaded | to be uploaded |
+| 13 | **D.1** Representation Learning: Learning useful coordinates for data | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/D.1.pdf" target="_blank" rel="noopener">PDF</a> | [Notebook 1](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_D.1_Representation_Learning/1_functions_as_mappings.ipynb), [Notebook 2](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_D.1_Representation_Learning/2_simple_MLP_as_mapping.ipynb), [Notebook 3](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_D.1_Representation_Learning/3_Manifold_hypothesis_of_CNN_for_MedMNIST.ipynb), [Notebook 4](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_D.1_Representation_Learning/4_Manifold_hypothesis_of_CNN_for_MedMNIST_better_statistics.ipynb) |
+| 14 | **D.2** Representation Learning: Evaluating and probing representations | to be uploaded | to be uploaded |
+| 15 | **D.3** Representation Learning: How to learn a good representation | to be uploaded | to be uploaded |
+| 16 | **D.4** Generative modeling: Variational autoencoders | to be uploaded | to be uploaded |
+| 17 | **D.5** Generative modeling: Flow matching models | to be uploaded | to be uploaded |
+| 18 | **D.6** Generative modeling: Diffusion models | to be uploaded | to be uploaded |
+| 19 | **E.1** A unifying view: invariance, equivariance, and geometric deep learning | to be uploaded | to be uploaded |
+| 20 | **F.1** Why multimodal learning? Heterogeneity, complementarity, and shared representations | to be uploaded | to be uploaded |
+| 21 | **F.2** Combining modalities: fusion, joint embeddings, and cross-modal representation learning | to be uploaded | to be uploaded |
+| 22 | **F.3** Alignment and cross-modal interaction: correspondence, grounding, and attention | to be uploaded | to be uploaded |
+| 23 | **F.4** Multimodal reasoning and generation: from understanding to foundation models | to be uploaded | to be uploaded |
 
 
 > **Note:** Slide links above use raw GitHub URLs and are set to open in a new browser tab. Notebook links point to Google Colab versions.
