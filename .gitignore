@@ -25,3 +25,16 @@ package-lock.json
 
 # Data folders anywhere in the repo
 data/
+
+# Ignore Python notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore data directories (but not model checkpoints)
+*/data/
+**/data/
+
+# Exception: Allow model checkpoints to be uploaded
+!*/checkpoints/
+!**/checkpoints/
+!/checkpoints/
