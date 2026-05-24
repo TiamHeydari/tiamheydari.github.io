@@ -44,10 +44,10 @@ This course introduces the core ideas behind modern AI, starting from the founda
 **D.3** Representation Learning: How to learn a good representation  
 
 ## E. Generative Modeling
-**E.1** Generative Modeling: Basic concepts
-**E.2** Generative Modeling: Variational models
-**E.3** Generative Modeling: Diffusion models
-**E.4** Generative Modeling: Flow models
+**E.1** Generative Modeling: Basic concepts  
+**E.2** Generative Modeling: Variational models  
+**E.3** Generative Modeling: Diffusion models  
+**E.4** Generative Modeling: Flow models  
 
 ## F. Multimodal Learning
 **F.1** Why multimodal learning? Heterogeneity, complementarity, and shared representations  
