@@ -46,17 +46,18 @@ This course introduces the core ideas behind modern AI, starting from the founda
 ## E. Generative Modeling
 **E.1** Generative Modeling: Basic concepts  
 **E.2** Generative Modeling: Variational models  
-**E.3** Generative Modeling: Diffusion models  
-**E.4** Generative Modeling: Flow models  
+**E.3** Generative Modeling: Diffusion models I  
+**E.4** Generative Modeling: Diffusion models II  
+**E.5** Generative Modeling: Structured (conditional) generation  
 
-## F. Multimodal Learning
-**F.1** Why multimodal learning? Heterogeneity, complementarity, and shared representations  
-**F.2** Combining modalities: fusion, joint embeddings, and cross-modal representation learning  
-**F.3** Alignment and cross-modal interaction: correspondence, grounding, and attention  
-**F.4** Multimodal reasoning and generation: from understanding to foundation models
+## F. Multimodal Inference and Generation
+**F.1** Introduction to Multimodal Representation & Alignment  
+**F.2** Multimodal Fusion  
+**F.3** Cross-Modal learning  
 
 ## G. Geometric Deep Learning
 **G.1** A unifying view: invariance, equivariance, and geometric deep learning  
+
 
 ## Lectures & Notebooks
 
@@ -78,14 +79,14 @@ This course introduces the core ideas behind modern AI, starting from the founda
 | 14 | **D.2** Representation Learning: Evaluating and probing representations | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/D.2.pdf" target="_blank" rel="noopener">PDF</a> | [Notebook 1](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_D.2_Representation%20Learning%20-%20evaluation/a.Informativeness.ipynb), [Notebook 2](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_D.2_Representation%20Learning%20-%20evaluation/b.Organization.ipynb), [Notebook 3](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_D.2_Representation%20Learning%20-%20evaluation/c.Disentanglement/c.Disentanglement.ipynb), [Notebook 4](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_D.2_Representation%20Learning%20-%20evaluation/d.Invaraint%20and%20e.Equivaraint/d.%20Invariance%20and%20e.Equivaraince.ipynb) |
 | 15 | **D.3** Representation Learning: How to learn a good representation | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/D.3.pdf" target="_blank" rel="noopener">PDF</a> | [Notebook 1](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_D.3_Representation%20Representation%20Learning%20methods/Contrastive_learning_CIFAR10.ipynb) |
 | 16 | **E.1** Generative Modeling: Basic concepts | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/E.1.pdf" target="_blank" rel="noopener">PDF</a> | [Notebook 1](https://colab.research.google.com/github/TiamHeydari/tiamheydari.github.io/blob/master/_teaching/Modern_AI/notebooks/Workshop_E.1_GenAI_basics/Notebook1_physics_based_Generative_model.ipynb) |
-| 17 | **E.2** Generative Modeling: Variational models | to be uploaded | to be uploaded |
-| 18 | **E.3** Generative Modeling: Diffusion models | to be uploaded | to be uploaded |
-| 19 | **E.4** Generative Modeling: Flow models | to be uploaded | to be uploaded |
-| 20 | **G.1** A unifying view: invariance, equivariance, and geometric deep learning | to be uploaded | to be uploaded |
-| 21 | **F.1** Why multimodal learning? Heterogeneity, complementarity, and shared representations | to be uploaded | to be uploaded |
-| 22 | **F.2** Combining modalities: fusion, joint embeddings, and cross-modal representation learning | to be uploaded | to be uploaded |
-| 23 | **F.3** Alignment and cross-modal interaction: correspondence, grounding, and attention | to be uploaded | to be uploaded |
-| 24 | **F.4** Multimodal reasoning and generation: from understanding to foundation models | to be uploaded | to be uploaded |
+| 17 | **E.2** Generative Modeling: Variational models | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/E.2.pdf" target="_blank" rel="noopener">PDF</a> | to be uploaded |
+| 18 | **E.3** Generative Modeling: Diffusion models I | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/E.3.pdf" target="_blank" rel="noopener">PDF</a> | to be uploaded |
+| 19 | **E.4** Generative Modeling: Diffusion models II | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/E.4.pdf" target="_blank" rel="noopener">PDF</a> | to be uploaded |
+| 20 | **E.5** Generative Modeling: Structured (conditional) generation | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/E.5.pdf" target="_blank" rel="noopener">PDF</a> | to be uploaded |
+| 21 | **F.1** Introduction to Multimodal Representation & Alignment | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/F.1.pdf" target="_blank" rel="noopener">PDF</a> | to be uploaded |
+| 22 | **F.2** Multimodal Fusion | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/F.2.pdf" target="_blank" rel="noopener">PDF</a> | to be uploaded |
+| 23 | **F.3** Cross-Modal learning | <a href="https://raw.githubusercontent.com/TiamHeydari/tiamheydari.github.io/master/_teaching/Modern_AI/lectures/F.3.pdf" target="_blank" rel="noopener">PDF</a> | to be uploaded |
+| 24 | **G.1** A unifying view: invariance, equivariance, and geometric deep learning | to be uploaded | to be uploaded |
 
 
 > **Note:** Slide links above use raw GitHub URLs and are set to open in a new browser tab. Notebook links point to Google Colab versions.
